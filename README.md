@@ -32,7 +32,7 @@ B. Implementation Procedure
 
 Source Code Retrieval (Cloning or Download):
 
-git clone [https://github.com/anmolaadh404/qr-code-generator.git](https://github.com/anmolaadh404/qr-code-generator.git)
+git clone [https://github.com/anmolaadh404/qr-code-generator.git](https://github.com/anmolaadh404/QrCode-Generator.git)
 
 
 
